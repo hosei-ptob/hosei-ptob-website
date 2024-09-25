@@ -9,8 +9,8 @@
 
 <channel>
 	<title>法政PtoB</title>
-	<atom:link href="https://iwatanabe-7.github.io/test-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://iwatanabe-7.github.io/test-page</link>
+	<atom:link href="https://hosei-ptob.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hosei-ptob.com</link>
 	<description>法政大学公認学生団体「法政PtoB」は、廃棄プラスチックの削減などのSDGsに関する取り組みを行っています。</description>
 	<lastBuildDate>Sat, 31 Aug 2024 09:35:46 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://iwatanabe-7.github.io/test-page/wp-content/uploads/2024/07/housei-PtoB-icon.jpg</url>
+	<url>https://hosei-ptob.com/wp-content/uploads/2024/07/housei-PtoB-icon.jpg</url>
 	<title>法政PtoB</title>
-	<link>https://iwatanabe-7.github.io/test-page</link>
+	<link>https://hosei-ptob.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

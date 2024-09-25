@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	法政PtoB へのコメント	</title>
-	<atom:link href="https://iwatanabe-7.github.io/test-page/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://iwatanabe-7.github.io/test-page</link>
+	<atom:link href="https://hosei-ptob.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hosei-ptob.com</link>
 	<description>法政大学公認学生団体「法政PtoB」は、廃棄プラスチックの削減などのSDGsに関する取り組みを行っています。</description>
 	<lastBuildDate>Sat, 31 Aug 2024 09:35:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
