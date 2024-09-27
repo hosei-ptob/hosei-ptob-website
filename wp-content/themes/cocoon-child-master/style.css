@@ -14,6 +14,9 @@ Version:    1.1.3
 ** 子テーマ用のスタイルを書く
 ************************************/
 /*必要ならばここにコードを書く*/
+.main {
+	padding: 0px 0px;
+}
 .page .date-tags,
 .page .author-info {display: none;}
 
@@ -67,6 +70,9 @@ Version:    1.1.3
 /*834px以下*/
 @media screen and (max-width: 834px){
   /*必要ならばここにコードを書く*/
+	div.sidebar {
+		padding: 0px 16px;
+	  }
 }
 
 /*480px以下*/
