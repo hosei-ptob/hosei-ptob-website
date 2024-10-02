@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	HOSEI My bottle challenge 2024開催 へのコメント	</title>
+	<atom:link href="https://hosei-ptob.com/hosei-my-bottle-challenge-2024/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hosei-ptob.com/hosei-my-bottle-challenge-2024/</link>
+	<description>法政大学公認学生団体「法政PtoB」は、廃棄プラスチックの削減などのSDGsに関する取り組みを行っています。</description>
+	<lastBuildDate>Wed, 02 Oct 2024 10:00:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+</channel>
+</rss>
