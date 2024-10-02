@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>イベント  |  法政PtoB</title>
+	<atom:link href="https://hosei-ptob.com/category/event/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hosei-ptob.com</link>
+	<description>法政大学公認学生団体「法政PtoB」は、廃棄プラスチックの削減などのSDGsに関する取り組みを行っています。</description>
+	<lastBuildDate>Wed, 02 Oct 2024 10:00:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://hosei-ptob.com/wp-content/uploads/2024/07/housei-PtoB-icon.jpg</url>
+	<title>イベント  |  法政PtoB</title>
+	<link>https://hosei-ptob.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HOSEI My bottle challenge 2024開催</title>
+		<link>https://hosei-ptob.com/hosei-my-bottle-challenge-%e9%96%8b%e5%82%ac/</link>
+		
+		<dc:creator><![CDATA[isse-]]></dc:creator>
+		<pubDate>Wed, 02 Oct 2024 10:52:41 +0000</pubDate>
+				<category><![CDATA[イベント]]></category>
+		<guid isPermaLink="false">https://hosei-ptob.com/?p=564</guid>
+
+					<description><![CDATA[マイボトル使用推進プロジェクト「法政PtoB」です。 小金井キャンパスに給水スポット（東館2F 体育館前）が誕生することを記念して、「HOSEI My bottle challenge 2024 ～海洋プラスチック問題に [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
